@@ -15,5 +15,4 @@
 两个站点地址不一样，网页元素也不一样，自己竟然会犯这种错误，应牢记，正确的选择元素应该是下面这几行
 
 2.text参数是否在该span元素内，此处需要注意text的参数位置
-
 text_to_be_present_in_element(locator, text_)
